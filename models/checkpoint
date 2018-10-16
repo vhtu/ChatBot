@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/vhtu/DL/chatbox/models/model.tflearn"
+all_model_checkpoint_paths: "/home/vhtu/DL/chatbox/models/model.tflearn"
